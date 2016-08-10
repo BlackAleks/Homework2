@@ -1,0 +1,83 @@
+body {
+	background: #d6d6d6;
+	width: auto;
+}
+
+img {
+	height: 250px;
+	width: 210px;
+}
+
+h1, h2, p, li {
+	font-family: Arial, sans-serif;
+}
+
+p { 
+	color: black;
+	width: 770px;
+	font-size: 14pt;
+}
+
+li {
+	width: 750px;
+	line-height: 25px;
+	font-size: 14pt;
+}
+
+div {
+	width: 800px;
+	margin-left: 100px;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+h2 {
+	margin: auto;
+}
+
+	.Name {
+		text-align: center;
+		margin: auto;
+		padding-top: 20px;	
+	}
+
+	.Introduce {
+		margin: auto;
+		margin-bottom: 10px;
+		border-bottom: 1px solid black;	
+	}
+
+	.Reasons {
+		margin: auto;
+		margin-bottom: 10px;
+		border-bottom: 1px solid black;	
+	}
+
+	.Phone {
+		margin-left: 150px;	
+	}
+
+	.Link {
+		margin-left: 150px;
+	}
+
+	.Feedback {
+		padding-top: 10px;
+		border-top: .5px solid black;
+	}
+
+	.Text {	
+		margin-left: 150px;	
+	}
+
+	.boxShadow {
+		width: 1000px;
+		height: 1160px;
+		margin: auto;
+		margin-top: 10px;
+		margin-bottom: 40px;
+		background-color: #eee;
+		border: 1px solid black;
+	}
